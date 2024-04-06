@@ -1,6 +1,6 @@
 # Terminal
 
-""" Programm: Terminal with Python
+""" Program: Terminal with Python
 
 Description:
 - This program is a simple terminal I made.
